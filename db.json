@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "OnKN2Kx0vpfew3WO4KKieV9qK5u2",
+      "username": "jsontest",
+      "email": "jsontest@test.com"
+    },
+    {
+      "id": "TtbL6OhGBmawd5anaVQenn80WDT2",
+      "username": "testinclass",
+      "email": "testinclass@test.com"
+    },
+    {
+      "id": "MXHCwZojm8Wm9lCHlOlwQRbsR0W2",
+      "username": "finaltest",
+      "email": "finaltest@test.com"
+    }
+  ],
+  "posts": [
+    {
+      "title": "testinggg new",
+      "description": "dididid",
+      "image": null,
+      "likes": 6,
+      "comments": [],
+      "createdAt": "2025-02-15T12:56:16.938Z",
+      "author": "testinclass",
+      "email": "testinclass@test.com",
+      "id": 4,
+      "likedBy": [
+        "testinclass@test.com"
+      ]
+    },
+    {
+      "title": "test today",
+      "description": "testigngnng",
+      "image": null,
+      "likes": 0,
+      "likedBy": [],
+      "comments": [],
+      "createdAt": "2025-02-17T15:17:47.394Z",
+      "author": "testinclass",
+      "email": "testinclass@test.com",
+      "id": 5
+    }
+  ]
+}
