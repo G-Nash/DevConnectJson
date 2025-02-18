@@ -19,6 +19,11 @@
       "id": "0BY4yAl1JZctQMsAqifAKUtyyil2",
       "username": "G_Nash",
       "email": "ganeshkadali2003@gmail.com"
+    },
+    {
+      "id": "3k2IOKdklpO4LpQyfzL2R3OgFi42",
+      "username": "admin",
+      "email": "admin@admin.com"
     }
   ],
   "posts": [
@@ -74,6 +79,20 @@
       "author": "G_Nash",
       "email": "ganeshkadali2003@gmail.com",
       "id": 6
+    },
+    {
+      "title": "Hey, this is your Admin",
+      "description": "Drop a comments if you need anything.",
+      "image": null,
+      "likes": 1,
+      "likedBy": [
+        "admin@admin.com"
+      ],
+      "comments": [],
+      "createdAt": "2025-02-18T03:08:30.780Z",
+      "author": "admin",
+      "email": "admin@admin.com",
+      "id": 7
     }
   ]
 }
